@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+  <title>WSYZ's Blog</title>
+  <link>https://woshiyouzhuan.dpdns.org/</link>
+  <description>记录想法、代码与生活。这里是我随手写下的一些东西。</description>
+  <language>zh-CN</language>
+  <lastBuildDate>Sun, 18 Oct 2026 08:34:08 GMT</lastBuildDate>
+  <item>
+    <title><![CDATA[TWM000近期作品网盘总链接]]></title>
+    <link>https://woshiyouzhuan.dpdns.org/posts/twm000.html</link>
+    <description><![CDATA[TWM000 近期 Windows 镜像作品网盘总链接，包含 Win7 / Win10 / Win11 各版本及 LTSC、精简版、PE、Server 等，附百度网盘、123 云盘、光鸭云盘分流地址。]]></description>
+    <pubDate>Thu, 01 Oct 2026 12:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://woshiyouzhuan.dpdns.org/posts/twm000.html</guid>
+  </item>
+  <item>
+    <title><![CDATA[祝祖国77周年生日快乐]]></title>
+    <link>https://woshiyouzhuan.dpdns.org/posts/77.html</link>
+    <description><![CDATA[]]></description>
+    <pubDate>Thu, 01 Oct 2026 12:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://woshiyouzhuan.dpdns.org/posts/77.html</guid>
+  </item>
+  <item>
+    <title><![CDATA[QQ 8.9.50 修改版 -by wushidi]]></title>
+    <link>https://woshiyouzhuan.dpdns.org/posts/qq-8950-by-wushidi.html</link>
+    <description><![CDATA[QQ 8.9.50 修改版（by wushidi）：去除顶栏广告、下拉小程序、UE4、超级QQ秀、启动广告、更新提示等，精简侧边栏和设置栏目，防撤回，添加自适应图标。含 123 云盘下载。]]></description>
+    <pubDate>Fri, 25 Sep 2026 12:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://woshiyouzhuan.dpdns.org/posts/qq-8950-by-wushidi.html</guid>
+  </item>
+  <item>
+    <title><![CDATA[哔哩哔哩 7.14.1 修改版 -by wushidi]]></title>
+    <link>https://woshiyouzhuan.dpdns.org/posts/7141-by-wushidi.html</link>
+    <description><![CDATA[哔哩哔哩 7.14.1 修改版（by wushidi）：移除右上角游戏中心广告、修复闪退、手动重定向、优化导航栏沉浸。含蓝奏云和 123 云盘下载。]]></description>
+    <pubDate>Fri, 25 Sep 2026 12:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://woshiyouzhuan.dpdns.org/posts/7141-by-wushidi.html</guid>
+  </item>
+  <item>
+    <title><![CDATA[微信 WeChat 8.0.10 Google Play 定制版]]></title>
+    <link>https://woshiyouzhuan.dpdns.org/posts/wechat-8010-google-play.html</link>
+    <description><![CDATA[摘要 安卓微信谷歌版（WeChat），隐私条款较严、耗电较少、无个性化广告、不监测聊天数据、无强制升级弹窗。含 8.0.10 正式版下载地址。]]></description>
+    <pubDate>Fri, 25 Sep 2026 12:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://woshiyouzhuan.dpdns.org/posts/wechat-8010-google-play.html</guid>
+  </item>
+  <item>
+    <title><![CDATA[中秋快乐🥮！]]></title>
+    <link>https://woshiyouzhuan.dpdns.org/posts/mid-autumn-festival.html</link>
+    <description><![CDATA[祝大家中秋快乐！]]></description>
+    <pubDate>Fri, 25 Sep 2026 12:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://woshiyouzhuan.dpdns.org/posts/mid-autumn-festival.html</guid>
+  </item>
+  <item>
+    <title><![CDATA[沃玛的生活 -新开始]]></title>
+    <link>https://woshiyouzhuan.dpdns.org/posts/post-mugew3em.html</link>
+    <description><![CDATA[【warma】沃玛新番化了？!虽然制作组只有我一个人【沃玛的生活/第一期】]]></description>
+    <pubDate>Fri, 25 Sep 2026 12:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://woshiyouzhuan.dpdns.org/posts/post-mugew3em.html</guid>
+  </item>
+  <item>
+    <title><![CDATA[Internet Download Manager 6.43.2 (IDM) - 423Down]]></title>
+    <link>https://woshiyouzhuan.dpdns.org/posts/idm.html</link>
+    <description><![CDATA[Internet Download Manager（IDM）是一款全球领先的多线程下载管理工具与智能下载加速器。]]></description>
+    <pubDate>Sun, 13 Sep 2026 12:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://woshiyouzhuan.dpdns.org/posts/idm.html</guid>
+  </item>
+  <item>
+    <title><![CDATA[Test]]></title>
+    <link>https://woshiyouzhuan.dpdns.org/posts/test.html</link>
+    <description><![CDATA[这是博客的第一篇帖子，用来测试整个页面的排版与组件是否正常工作。后续的文章都会以这种卡片的形式展示在主页上。]]></description>
+    <pubDate>Sat, 12 Sep 2026 12:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://woshiyouzhuan.dpdns.org/posts/test.html</guid>
+  </item>
+</channel>
+</rss>
